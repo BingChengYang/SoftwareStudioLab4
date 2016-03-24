@@ -7,6 +7,8 @@ import javax.swing.*;
 
 
 public class MyJPanel extends JPanel implements MouseMotionListener{
+	private int centerX;
+	private int centerY;
 	
 	private Square square = new Square(100);
 	
