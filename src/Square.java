@@ -8,7 +8,7 @@ public class Square extends Shape {
 	public Square(int shapeWidth){
 		// TODO Constructor
 		this.shapeWidth = shapeWidth;
-	}
+	} //123
 	
 	
 	@Override
